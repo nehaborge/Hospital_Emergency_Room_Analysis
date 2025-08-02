@@ -1,7 +1,9 @@
-# Hospital Emergency Room Dashboard – Monthly Report(USING EXCEL)
+# Hospital Emergency Room Analysis – Monthly Report(Interactive Dashboard USING EXCEL)
 
 ## Objective:
 To design an interactive and visual dashboard that provides an overview of key metrics in a hospital’s emergency room for the every month of the year. Help hospital management monitor performance, patient satisfaction, wait times, admission trends, and department referrals effectively.
+## Dataset Used
+-<a href="https://github.com/nehaborge/Hospital_Emergency_Room_Analysis/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset Used </a>
 
 ## Questions (KPIs)
 1. How many patients visited the ER in year 2023 and 2024?
@@ -12,4 +14,6 @@ To design an interactive and visual dashboard that provides an overview of key m
 6. What was the gender distribution of patients?
 7. Which age groups visited most frequently?
 8. How many patients were referred to specific departments?
+-Dashboard Interaction <a href="https://github.com/nehaborge/Hospital_Emergency_Room_Analysis/blob/main/Dashboardscreenshort.PNG">Dashboard</a>
+ 
 
