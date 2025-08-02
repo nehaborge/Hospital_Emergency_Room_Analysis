@@ -20,26 +20,8 @@ To design an interactive and visual dashboard that provides an overview of key m
 ## Process Followed:
 1. Data Collection
 2. Data Cleaning & Preparation
-3. Visualization:
- 
-  -Created charts for
- 
-  -Number of patients
-
-  -Wait time
- 
-  -Admission status
- 
-  -Age group distribution
- 
-  -Gender analysis
- 
-  -Referral departments
- 
-  -On-time vs delayed cases
-
+3. Visualization
 5. Dashboard Creation
-
 6. Report Preparation
 
 ## Dashboard
