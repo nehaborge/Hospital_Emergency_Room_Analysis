@@ -23,14 +23,20 @@ To design an interactive and visual dashboard that provides an overview of key m
 3. Visualization:
  -Created charts for:
  -Number of patients
+
  -Wait time
+ 
  -Admission status
+ 
  -Age group distribution
+ 
  -Gender analysis
+ 
  -Referral departments
+ 
  -On-time vs delayed cases
-4. Dashboard Creation
-5. Report Preparation
+5. Dashboard Creation
+6. Report Preparation
 
 ## Dashboard
 <img width="1146" height="520" alt="Dashboardscreenshort" src="https://github.com/user-attachments/assets/f542de91-0420-4163-93ad-c3556b9b48f8" />
