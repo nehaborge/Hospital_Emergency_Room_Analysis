@@ -15,27 +15,31 @@ To design an interactive and visual dashboard that provides an overview of key m
 7. Which age groups visited most frequently?
 8. How many patients were referred to specific departments?
 
--Dashboard Interaction <a href="https://github.com/nehaborge/Hospital_Emergency_Room_Analysis/blob/main/Dashboardscreenshort.PNG">Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/nehaborge/Hospital_Emergency_Room_Analysis/blob/main/Dashboardscreenshort.PNG">View Dashboard</a>
  
 ## Process Followed:
 1. Data Collection
 2. Data Cleaning & Preparation
 3. Visualization:
- -Created charts for:
- -Number of patients
+ 
+  -Created charts for
+ 
+  -Number of patients
 
- -Wait time
+  -Wait time
  
- -Admission status
+  -Admission status
  
- -Age group distribution
+  -Age group distribution
  
- -Gender analysis
+  -Gender analysis
  
- -Referral departments
+  -Referral departments
  
- -On-time vs delayed cases
+  -On-time vs delayed cases
+
 5. Dashboard Creation
+
 6. Report Preparation
 
 ## Dashboard
